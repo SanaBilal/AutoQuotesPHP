@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConfigLogic xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ConfigLogic xsi:type="ListConfigLogic">
+    <PKey>d804ffa6-ad7d-47cc-83bc-64b223f245a1</PKey>
+    <Description>Notes</Description>
+    <Models>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>f7f45888-e79d-4824-a8d5-05c0eaca6864</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUEPARTS</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>e00dde89-cd71-48e5-af98-4da6eabccac4</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUEWEBSITE</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>74b42337-8635-4168-82b5-3aca317333f4</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUEDISCLAIM</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>caac54c9-f9bb-4ece-871f-f188c34e4eec</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUEDSCLAIM2</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>52148bdc-9243-4973-9ee3-b8456f43e854</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUEUSAONLY</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>4d9c896a-6de3-4aba-ae85-4ce313cac172</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUESPEC01</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+    </Models>
+    <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+    <AllowMultipleChoices>true</AllowMultipleChoices>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>63d6292a-4775-46f9-8b60-8c6e7d5f0a4d</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>d383f6e1-30a9-4a44-b85d-13d07d10b936</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-06-34-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>4fded756-7775-413a-b8c9-32b9b07362bf</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>f2fda388-fb7c-451e-93b1-807007068188</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-09-SQ-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>c66f2636-c5cc-48f2-a655-51f39ec90c69</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10PT-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>d563ee0e-5a38-44e4-b5b9-a9234f3e8011</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10SSL-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>5aa0b46b-44c5-4ea2-a5fd-687c3d38ec18</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-12F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>171e1194-545e-44b7-8739-f6b2c9a87f89</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-26F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>0c9ed44c-5f01-4717-8faf-46dc38948f73</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-30-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>c841ecb4-f23d-487b-9671-d3c9353b1b3d</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-33CPT-54-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>19ba3776-fd16-4284-ade0-daf12995bf79</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-33SSL-56-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>a4178775-e9b7-42a0-9e21-6fe7b7bc3baa</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-35SL-RF-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>d3a92ee9-17a0-4c76-8728-7248f42e15a1</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-41SL-54-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>b51441a6-5539-4559-8f09-cab0169f7502</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-41SL-60-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>f3b19d37-b435-419d-8777-d60bb3213691</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-41SL-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>bc1cb876-4572-4959-a644-775fff3cd301</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-43F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>56406fca-f4e0-44e4-805b-47ddf7b13d9e</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-47RL-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>f097377a-ca4c-4749-a7b7-c263533e6696</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-49FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>c503639b-3bd5-4f25-8341-689054104b1e</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDIM-49NT-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogChoiceRequiredic">
+        <PKey>cef197f3-2f65-408a-ac77-1ec54ac635d2</PKey>
+        <Description>Note</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>84fa29d6-bc5f-4d0b-b162-275ff43cab1f</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZNOTECSB</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>a0dfc7af-cef7-4a22-8c97-86cef8d3b74c</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>6181c4ba-afeb-4e49-ba51-dfb26a8293e3</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>4bb062a1-013d-4816-80fb-0c749986f6fc</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>dd90f332-c6c6-4e18-8358-175dcd6b2b0c</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-09-SQ-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>8bbcc5ba-d78f-40bd-a6ca-7817293c886b</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>aec589b7-7492-4cb1-8068-74526d135061</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>a711bc30-1e59-4f8a-842e-e37c45c9a305</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-09-SQ-S-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>42a10b86-f5d1-4a35-8fd7-9c0c6d86e5b7</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05PT-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>43953494-6295-4385-9be1-cd85b69effef</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05PT-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>78e50bfc-0e3b-4177-ae21-002296c2a451</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-06-34-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>3ac39d47-6bc3-40e2-9684-abfc205cb30a</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10SSL-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>c4154e7c-6825-4e97-a476-f30be8689d76</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>ea48c8f5-27fd-4275-b55d-1656915f0eae</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-08-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>cee705aa-c184-4606-88ec-637c8270257e</PKey>
+        <Description>Refrigeration</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>98025755-90e8-49bf-b2ec-5f80b43ea6c8</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZTRUE01M001</Model>
+            <ModelHidden>true</ModelHidden>
+            <PossibleConfigurations>
+              <guid>2978d931-d428-4981-87bf-90152b748244</guid>
+            </PossibleConfigurations>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ListConfigLogic">
+    <PKey>a789db47-5db1-4fce-b21c-23483be93790</PKey>
+    <Description>Parts &amp; labor warranty</Description>
+    <Models>
+      <ModelLogic xsi:type="AccessoryModelLogic">
+        <PKey>7e45a4ae-5923-4613-ad5a-c88206ac0a39</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>WARZZTRUE001C</Model>
+        <ModelHidden>true</ModelHidden>
+      </ModelLogic>
+    </Models>
+    <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+    <ChoiceRequired>true</ChoiceRequired>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>83ebd3e4-6bbc-4cbb-8c24-850cb8279fd6</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>9ddebc40-7979-4bab-b2f6-b2d76dbf0ee6</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>14298f1a-caae-402b-9b71-29986ef29bf9</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e56897e5-0808-45db-92e4-a057c5556251</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>91a8251e-a4c7-4805-9ee4-e7c76994393f</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>bf975d4f-16cc-406f-87b0-f5fbd35ce229</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>3d5f8d6f-8422-49a9-bcc3-59a331967557</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>9a28f60c-b070-49d4-a704-0cac463a810c</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10-58-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>39d40219-5dc4-426d-8208-5d73e3c89c77</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e29d8c50-8598-4978-8fb8-2120ba6d08bf</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10SSL-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>6e9c1f8a-2e95-44cd-bc89-5b4f59ee1d9a</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-12-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>4b72b2e8-0edd-452e-aea8-7ec556deeb34</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-12F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>af76db71-d51d-45c6-94b9-87642b480741</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-12FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>540d64f9-60c8-401a-94e8-fa50f29bd4fb</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-19T-F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>1d436d3c-353f-42f6-9ec2-47b603515c16</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-19T-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>7a670f65-b881-4b49-80c4-111bcb6adacd</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-23-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>8839ed6e-960b-4091-b3b2-0173b2350d45</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-23W-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>64144ce9-7f94-4007-a7e1-6c2526c93e30</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-23F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>0821ea11-7f90-492a-b57a-13920e225430</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-23FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>86e73ef4-555c-49c1-aee8-037bbc2904c0</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-26-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>20847f4c-0f54-42ae-a85c-98f7348d187d</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-26F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>d663431a-c189-485c-83df-d51d85882d91</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-08-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e36a8dc7-90dc-4233-bccf-571f5045318a</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-06-34-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>fa438077-a0f0-4b58-aaa6-3532ab2fefb1</PKey>
+        <Description>Door hinging</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>816b68e6-2927-4a8f-b13e-c8ff1f9379be</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZTRUESTDHNG</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>0d59316d-b3aa-4de2-95ae-eacbe990275e</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZTRUELFTHNG</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>7beae549-ff3f-4468-b560-46ec1335fccd</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>132a4722-9956-4488-9658-2ea87a00cb40</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-19T-F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>5ab93e11-a740-4693-a780-32f97ea44906</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-26F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>0cbbe48e-e962-4e1a-9ab0-7393e9503ce2</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>ea748486-d0d6-4267-be01-12458ced124c</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-12F-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>e9f1ed3b-f8f0-411e-9e66-1a2c68a96037</PKey>
+        <Description>Exterior finish</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>dcb13b48-6962-473a-9f72-f0ec0298607b</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZOPTRUER1WHTPC</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>e5d789e5-816a-4e37-b230-71384639666e</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZOPTRUER1BLKPC</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>e1138097-41f6-4467-a0e6-e046f7b1f6f4</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZOPTRUER1SSTD</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>d35ca12c-9f72-4a85-8ffd-5cb755b9165b</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>a99a1e7a-e158-4568-90f5-25688b82da4c</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>938e99f1-738b-42bf-bf90-41793ee8b972</PKey>
+        <Description>Interior finish</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>f350be8d-38f8-420e-afb7-672a23ac9b4f</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZOPTRUEINTWHTS</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>240dfb98-5dc4-49de-bf01-486d8d602966</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZOPTRUER36SBK1</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>777e14b3-d3b2-44bd-9215-e66adec252d5</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>ac897675-e39d-4a54-af59-5e87e7bd0213</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>5ff4e7fa-5f2b-41a8-9c38-4329ef98f4af</PKey>
+        <Description>Decal graphics</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>8805cf33-6fec-4cd9-8f32-555b4b682611</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZTRUESIGN0F2</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>3f7dd07d-c993-499f-a84a-5e247a02f937</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-BIC</Model>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>18c90096-4612-40f6-a161-4753a80ffdb2</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-BNC</Model>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>15c92d5b-d19d-4c53-ad15-9514f5e568b3</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-SIC</Model>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>f4d985d4-2b23-4c23-8bdf-d57e3a209c6c</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-SNC</Model>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>0bba1085-d183-4f53-a140-4bed3f8cb73a</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-PW</Model>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>9dbb3d17-2caf-44b4-bde0-695da8be96b1</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-PB</Model>
+          </ModelLogic>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>8a50c23e-c257-41e1-877e-452e5cde6e1b</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>S-CUSTOM</Model>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>c31a883c-998b-47f2-8062-9b55058432cc</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>aedc29fb-01b7-4ec8-b01b-b1c5397e5e6b</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>45b82fdc-d128-4241-8e05-f691a8b6be0b</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>f4d61cbb-cbfa-4aef-a913-b6b3a025a308</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-S-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>34a55fd3-4a07-4623-b13e-f4e90854cc4c</PKey>
+        <Description>Legs</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>79695995-90ed-401e-862b-6577b11a9568</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZTRUE01M1L08</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>87369155-98a8-4578-9ae8-ecbec3b910b6</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>0b918b18-3692-49cf-a195-e262c9d75696</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>6b631ef6-6049-4e91-a863-aadfe0924b95</PKey>
+        <Description>Shelves &amp; racks</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>7bb0b2cc-4ef6-48eb-a404-8ba4023d099c</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>832057</Model>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <AllowMultipleChoices>true</AllowMultipleChoices>
+        <GroupedByDescription>true</GroupedByDescription>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>3f0c6d34-5691-42fb-8ee2-8f0bc515e4d6</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>64354e34-7445-437c-a8b6-6a7c2598c0bf</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GEM-23-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>31b0b753-18ff-4c5b-acc3-ab1593f33229</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>80632d94-60a1-4ea5-a5b7-cd9efc17af07</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>G4SM-23-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>8ad15165-eeaf-4146-aa22-17c528809e50</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05PT-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>c69d15b5-e1a6-4990-a138-1eff1e3f7c76</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>G4SM-23FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>50a13891-95ce-4a53-ae94-2b0c2c486049</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05PT-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e73c5472-9708-4190-a0d6-5c43503fdd24</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>G4SM-23PT-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>fe4475ca-72db-45d9-8428-a666163771e8</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-05-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>14d82847-3e09-4500-90b1-cd1bb2a85fb9</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-06-34-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>48c4bdcd-3c3c-4761-979d-24aeb421bb1e</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-10PT-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>709e2d9a-d169-4521-8fe6-a16b15982673</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07F-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>c33f12d3-cf7d-4f50-a30e-8b7bdfac8934</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-12FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>ae26c37c-7e23-4efa-8e7d-7c96d19a95d1</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e3703bea-2498-411d-842e-79015734bd5d</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-07-S-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>9a556fb0-3a28-4fdc-8c95-245794ff2570</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-23FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>d2e73a28-2d5a-4c66-b9de-3a16fd3845e6</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-08-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>faa57ccf-9d0d-412f-a08e-f0a52c416048</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-23W-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>3ddcb01c-150c-4920-ae41-9f8d44787960</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-47FC-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>208369eb-a8f9-4902-b3ba-93ad4af3de22</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-47RL-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>2a4817e2-cf44-4292-96fa-550e1ba8bb2d</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-49FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>6b439b81-5197-4227-903f-3a4a03ec226c</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-69FC-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e7b8d8a4-4852-4ca1-b308-8e8759205cb2</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-72FC-HC~TSL01</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>85566d83-d99b-4eda-8696-f79fc71506eb</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-30-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>7c4bdcae-3654-45a5-a8fa-dddeb2ac3e4f</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-36SL-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>733a4531-0819-4bc5-9ce0-e90128b43fcc</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-41SL-54-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>e8fc37cf-ce30-4d73-98a1-bd9c1b1ed223</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-41SL-60-HC-LD</Model>
+      </ModelLogic>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>0a927cc2-6c74-4d8f-8b06-e50e49e97eb6</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>GDM-49RL-HC~TSL01</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>3ee7f487-86e6-4642-9d61-acf9dbc58d36</PKey>
+        <Description>Shelves &amp; racks</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>3669fa96-e8b2-447b-a86f-72cb28ac3ef7</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>ZZTRUE01A020</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <AllowMultipleChoices>true</AllowMultipleChoices>
+        <GroupedByDescription>true</GroupedByDescription>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>BaseModel</ComparedTo>
+  </ConfigLogic>
+  <ConfigLogic xsi:type="ComparisonConfigLogic">
+    <PKey>2978d931-d428-4981-87bf-90152b748244</PKey>
+    <Description />
+    <Models>
+      <ModelLogic xsi:type="SingleModelLogic">
+        <PKey>f517cf66-c7fe-4b4a-adf8-90b2c026341e</PKey>
+        <VendorNum>1304</VendorNum>
+        <Model>ZZTRUE01M001</Model>
+      </ModelLogic>
+    </Models>
+    <Children>
+      <ConfigLogic xsi:type="ListConfigLogic">
+        <PKey>9df147cb-01e7-4400-b088-7369ba19b2e3</PKey>
+        <Description>Compressor warranty</Description>
+        <Models>
+          <ModelLogic xsi:type="AccessoryModelLogic">
+            <PKey>17a48bf5-502f-487b-985e-7717cd27bd3d</PKey>
+            <VendorNum>1304</VendorNum>
+            <Model>WARZZTRUE002</Model>
+            <ModelHidden>true</ModelHidden>
+          </ModelLogic>
+        </Models>
+        <ItemsVisibleByDefault>true</ItemsVisibleByDefault>
+        <ChoiceRequired>true</ChoiceRequired>
+      </ConfigLogic>
+    </Children>
+    <ComparisonType>Or</ComparisonType>
+    <ComparedTo>AccessoryModel</ComparedTo>
+  </ConfigLogic>
+</ArrayOfConfigLogic>
